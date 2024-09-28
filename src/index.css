@@ -248,7 +248,9 @@ h1 {
 .modal::backdrop {
   background-color: rgba(0, 0, 0, 0.55);
 }
-
+p.center {
+  text-align: center;
+}
 @keyframes fade-slide-up {
   from {
     opacity: 0;
